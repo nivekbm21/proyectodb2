@@ -642,6 +642,24 @@ begin
 	from Factura
 end
 GO
+
+Create procedure [dbo].[splogin]
+
+@login int,
+@contrasena varchar(500)
+as
+begin
+	select [ID_Usuario]
+		  ,[Cedula]
+		  ,[ID_Tipo_Acceso]
+		  ,[Puesto]
+		  ,[ID_Estado]
+		  ,[Contraseña]
+	from Usuario
+	where Cedula=@login and Contraseña=@contrasena;
+
+end
+GO
 -- =============================================
 -- Description:	Creacion de los triggers para la bitacora de 
 -- clientes para cuando se eliminan,actualizan,insertan datos
