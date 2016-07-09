@@ -1,0 +1,20 @@
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\ProyectoDB\Capa_Negocio\bin\Debug\Capa_Negocio.exe.config
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\ProyectoDB\Capa_Negocio\bin\Debug\Capa_Negocio.exe
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\ProyectoDB\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\ProyectoDB\Capa_Negocio\bin\Debug\Capa_Datos.exe
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\ProyectoDB\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\ProyectoDB\Capa_Negocio\obj\Debug\Capa_Negocio.csprojResolveAssemblyReference.cache
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\ProyectoDB\Capa_Negocio\obj\Debug\Capa_Negocio.Properties.Resources.resources
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\ProyectoDB\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.GenerateResource.Cache
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\ProyectoDB\Capa_Negocio\obj\Debug\Capa_Negocio.exe
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\ProyectoDB\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 3\ProyectoDB\Capa_Negocio\bin\Debug\Capa_Negocio.exe.config
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 3\ProyectoDB\Capa_Negocio\bin\Debug\Capa_Negocio.exe
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 3\ProyectoDB\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 3\ProyectoDB\Capa_Negocio\bin\Debug\Capa_Datos.exe
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 3\ProyectoDB\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 3\ProyectoDB\Capa_Negocio\obj\Debug\Capa_Negocio.csprojResolveAssemblyReference.cache
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 3\ProyectoDB\Capa_Negocio\obj\Debug\Capa_Negocio.Properties.Resources.resources
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 3\ProyectoDB\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.GenerateResource.Cache
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 3\ProyectoDB\Capa_Negocio\obj\Debug\Capa_Negocio.exe
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 3\ProyectoDB\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
