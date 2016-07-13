@@ -8,6 +8,6 @@ namespace Capa_Datos
 {
     class ConexionBD
     {
-        public static string Cn = "Data Source=(local); Initial Catalog=ProyectoBaseDatos2; Integrated Security=true";
+        public static string Cn = "Data Source=(local); Initial Catalog=Proyecto_BD2; Integrated Security=true";
     }
 }
