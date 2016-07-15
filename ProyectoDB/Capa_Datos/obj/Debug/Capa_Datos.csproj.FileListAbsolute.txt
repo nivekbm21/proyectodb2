@@ -14,11 +14,11 @@ C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 3\Proyecto
 C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 3\ProyectoDB\Capa_Datos\obj\Debug\Capa_Datos.csproj.GenerateResource.Cache
 C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 3\ProyectoDB\Capa_Datos\obj\Debug\Capa_Datos.exe
 C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 3\ProyectoDB\Capa_Datos\obj\Debug\Capa_Datos.pdb
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\Capa_Datos\bin\Debug\Capa_Datos.exe.config
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\Capa_Datos\bin\Debug\Capa_Datos.exe
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\Capa_Datos\bin\Debug\Capa_Datos.pdb
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\Capa_Datos\obj\Debug\Capa_Datos.csprojResolveAssemblyReference.cache
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\Capa_Datos\obj\Debug\Capa_Datos.Properties.Resources.resources
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\Capa_Datos\obj\Debug\Capa_Datos.csproj.GenerateResource.Cache
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\Capa_Datos\obj\Debug\Capa_Datos.exe
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\Capa_Datos\bin\Debug\Capa_Datos.exe.config
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\Capa_Datos\bin\Debug\Capa_Datos.exe
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\Capa_Datos\obj\Debug\Capa_Datos.csprojResolveAssemblyReference.cache
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\Capa_Datos\obj\Debug\Capa_Datos.Properties.Resources.resources
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\Capa_Datos\obj\Debug\Capa_Datos.csproj.GenerateResource.Cache
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\Capa_Datos\obj\Debug\Capa_Datos.exe
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\Capa_Datos\obj\Debug\Capa_Datos.pdb

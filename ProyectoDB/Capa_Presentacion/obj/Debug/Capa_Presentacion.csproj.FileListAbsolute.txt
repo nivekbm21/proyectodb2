@@ -38,30 +38,30 @@ C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 3\Proyecto
 C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 3\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.Update_Producto.resources
 C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 3\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.frmMostrarFactura.resources
 C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 3\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.Creacion_Factura.resources
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe.config
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\Capa_Presentacion\bin\Debug\Capa_Presentacion.pdb
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\Capa_Presentacion\bin\Debug\Capa_Negocio.exe
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\Capa_Presentacion\bin\Debug\Capa_Datos.exe
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\Capa_Presentacion\bin\Debug\Capa_Negocio.pdb
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\Capa_Presentacion\bin\Debug\Capa_Datos.pdb
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.csprojResolveAssemblyReference.cache
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.Creacion_Direccion.resources
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.Creacion_Cliente.resources
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.Creacion_Factura.resources
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.Creacion_Producto.resources
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.Creacion_Telefono.resources
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.Creacion_Usuario.resources
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.frmMostrarCliente.resources
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.frmMostrarFactura.resources
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.frmMostrarProducto.resources
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.frmMostrarUsuario.resources
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.frmPrincipal1.resources
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.login.resources
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.Properties.Resources.resources
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.Update_Producto.resources
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.Update_Usuario.resources
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.Update_Cliente.resources
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.GenerateResource.Cache
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.exe
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe.config
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\Capa_Presentacion\bin\Debug\Capa_Presentacion.pdb
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\Capa_Presentacion\bin\Debug\Capa_Negocio.exe
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\Capa_Presentacion\bin\Debug\Capa_Datos.exe
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\Capa_Presentacion\bin\Debug\Capa_Negocio.pdb
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\Capa_Presentacion\bin\Debug\Capa_Datos.pdb
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.Creacion_Direccion.resources
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.Creacion_Cliente.resources
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.Creacion_Factura.resources
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.Creacion_Producto.resources
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.Creacion_Telefono.resources
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.Creacion_Usuario.resources
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.frmMostrarCliente.resources
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.frmMostrarFactura.resources
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.frmMostrarProducto.resources
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.frmMostrarUsuario.resources
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.frmPrincipal1.resources
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.login.resources
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.Properties.Resources.resources
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.Update_Producto.resources
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.Update_Usuario.resources
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.Update_Cliente.resources
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.GenerateResource.Cache
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.exe
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb

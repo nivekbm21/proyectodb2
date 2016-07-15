@@ -27,17 +27,17 @@ C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 3\Proyecto
 C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 3\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.csprojResolveAssemblyReference.cache
 C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 3\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.Properties.Resources.resources
 C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 3\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.csproj.GenerateResource.Cache
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\ProyectoDB\bin\Debug\ProyectoDB.exe.config
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.exe
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.pdb
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\ProyectoDB\bin\Debug\ProyectoDB.exe
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\ProyectoDB\bin\Debug\ProyectoDB.pdb
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\ProyectoDB\bin\Debug\Capa_Presentacion.exe
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\ProyectoDB\bin\Debug\Capa_Negocio.exe
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\ProyectoDB\bin\Debug\Capa_Datos.exe
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\ProyectoDB\bin\Debug\Capa_Presentacion.pdb
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\ProyectoDB\bin\Debug\Capa_Negocio.pdb
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\ProyectoDB\bin\Debug\Capa_Datos.pdb
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.csprojResolveAssemblyReference.cache
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.Properties.Resources.resources
-C:\Users\kevin\Documents\GitHub\proyectodb2\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.csproj.GenerateResource.Cache
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\ProyectoDB\bin\Debug\ProyectoDB.exe.config
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.exe
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.pdb
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\ProyectoDB\bin\Debug\ProyectoDB.exe
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\ProyectoDB\bin\Debug\ProyectoDB.pdb
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\ProyectoDB\bin\Debug\Capa_Presentacion.exe
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\ProyectoDB\bin\Debug\Capa_Negocio.exe
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\ProyectoDB\bin\Debug\Capa_Datos.exe
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\ProyectoDB\bin\Debug\Capa_Presentacion.pdb
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\ProyectoDB\bin\Debug\Capa_Negocio.pdb
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\ProyectoDB\bin\Debug\Capa_Datos.pdb
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.csprojResolveAssemblyReference.cache
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.Properties.Resources.resources
+C:\Users\sanchdie\Desktop\Universidad\BASE DE DATOS 2\proyecto\avance 4\ProyectoDB\ProyectoDB\obj\Debug\ProyectoDB.csproj.GenerateResource.Cache
