@@ -39,7 +39,7 @@ namespace Capa_Presentacion
                 return;
             }
           
-            DataTable Datos = Capa_Negocio.CNUSUARIO.Acceso(Convert.ToInt32(this.txtlogin.Text), this.txtclave.Text.Trim().ToUpper());
+            DataTable Datos = CNUSUARIO.Acceso(Convert.ToInt32(this.txtlogin.Text), this.txtclave.Text.Trim().ToUpper());
             //Evaluar si existe el Usuario
             if (Datos.Rows.Count == 0)
             {
